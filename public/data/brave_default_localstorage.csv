@@ -1,0 +1,31 @@
+﻿IsMeta,URL,Key,Value
+true,chrome-extension://bcocdbombenodlegijagbhdjbifpiijp,,"meta data, value bytes is [8 168 206 237 174 226 181 225 23 16 107]"
+true,chrome://bookmarks,,"meta data, value bytes is [8 222 229 176 188 186 176 225 23 16 63]"
+true,chrome://newtab,,"meta data, value bytes is [8 199 195 189 201 239 177 225 23 16 207 6]"
+true,https://www.google.com,,"meta data, value bytes is [8 237 148 167 198 239 177 225 23 16 53]"
+true,https://www.netflix.com,,"meta data, value bytes is [8 152 150 135 208 239 177 225 23 16 140 5]"
+true,https://www.recaptcha.net,,"meta data, value bytes is [8 231 214 242 205 239 177 225 23 16 23]"
+true,https://www.youtube.com,,"meta data, value bytes is [8 244 148 167 198 239 177 225 23 16 237 2]"
+false,,,�������
+false,,,�陟���
+false,,,�ý����
+false,,,픧����
+false,,,�������
+false,,,�������
+false,,,�������
+false,,,1
+false,chrome-extension://bcocdbombenodlegijagbhdjbifpiijp,billing.promocodeUpdatedAt,1731833305689
+false,chrome-extension://bcocdbombenodlegijagbhdjbifpiijp,fusion.last-check-on,1731833306156
+false,chrome-extension://bcocdbombenodlegijagbhdjbifpiijp,sentry-user-hash,6205629342076
+false,chrome://bookmarks,folderOpenState,"[[""0"",true],[""1"",true],[""9"",true],[""22"",true]]"
+false,chrome://newtab,grid-pages-container-scroll-position,"{""top"":0,""left"":24}"
+false,chrome://newtab,last-search-engine,search.brave.com
+false,chrome://newtab,new-tab-data,"{""braveRewardsSupported"":true,""braveTalkSupported"":true,""bitcoinDotComSupported"":false,""rewardsState"":{""adsAccountStatement"":{""nextPaymentDate"":0,""adsReceivedThisMonth"":0,""minEarningsThisMonth"":0,""maxEarningsThisMonth"":0,""minEarningsLastMonth"":0,""maxEarningsLastMonth"":0},""externalWalletProviders"":[],""dismissedNotifications"":[],""rewardsEnabled"":false,""userType"":""unconnected"",""declaredCountry"":"""",""needsBrowserUpgradeToServeAds"":false,""totalContribution"":0,""publishersVisitedCount"":0,""selfCustodyInviteDismissed"":false,""isTermsOfServiceUpdateRequired"":false,""parameters"":{""rate"":0,""monthlyTipChoices"":[],""payoutStatus"":{},""walletProviderRegions"":{},""vbatExpired"":false}},""removedStackWidgets"":[],""widgetStackOrder"":[""braveTalk"",""rewards""]}"
+false,https://www.google.com,mapslitepromosdismissed,1
+false,https://www.google.com,rc::a,MXh0MnQwczFsejV3OHc=
+false,https://www.netflix.com,nf-cl-ls-1731699431125-len,"{""url"":""https://logs.netflix.com/log/www/cl/2"",""data"":""{\""currentState\"":{\""4062994586689152\"":{\""memberIdInputKind\"":\""email\"",\""type\"":[\""MemberIdInputState\""],\""id\"":4062994586689152}},\""reverseDeltas\"":[[{\""type\"":[\""SessionEnded\""],\""id\"":4062995305695536,\""sequence\"":6,\""time\"":1731699431125,\""duration\"":22571,\""sessionId\"":4062994535076502},{\""source\"":\""www\"",\""schema\"":{\""name\"":\""netflixApp\"",\""version\"":\""1.671.0\""},\""type\"":[\""Log\"",\""Session\""],\""id\"":4062994535076502,\""sequence\"":1,\""time\"":1731699408554}]],\""type\"":\""CompactConsolidatedLoggingEnvelope\"",\""version\"":2,\""clientSendTime\"":1731699431125}""}"
+false,https://www.recaptcha.net,rc::a,ZTQyNGdmdzdzcjB0
+false,https://www.youtube.com,yt-icons-last-purged,1730317010874
+false,https://www.youtube.com,yt-remote-connected-devices,"{""data"":""[]"",""expiration"":1731785810253,""creation"":1731699410253}"
+false,https://www.youtube.com,yt-remote-device-id,"{""data"":""d60ad222-b681-442c-9979-23c401973d23"",""expiration"":1763235410247,""creation"":1731699410247}"
+false,https://www.youtube.com,ytidb::LAST_RESULT_ENTRY_KEY,"{""data"":{""hasSucceededOnce"":true},""expiration"":1734291410257,""creation"":1731699410257}"
