@@ -41,7 +41,7 @@ A comprehensive solution for digital forensics and browser artifact analysis, co
 
 ## 📸 Screenshots
 
-- ![Home Page](./2024-11-17_00-47.png)
+- ![Home Page](./2024-11-17_00-45.png)
 - ![Light Theme Example](./2024-11-17_00-47_1.png)
 
 ---
